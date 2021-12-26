@@ -1,6 +1,6 @@
 
 
-# :red_square: GCS-WebScanner v1.2 - _The Multi-Tool Web Vulnerability Scanner_
+# :red_square: GCS-WebScanner v0.1 - _The Multi-Tool Web Vulnerability Scanner_
 _**GCS-WebScanner has been ported to Python3 i.e. v1.2**. The Python2.7 codebase is available on v1.1 releases section. Download and use it if you still haven't upgraded to Python 3. Kindly note that the v1.1 (Python2.7) will not be enhanced further._
 
 ## Evolution:
